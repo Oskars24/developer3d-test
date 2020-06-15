@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8767cb9b2f2a5b2b72351daa36d308b1.js"
+  "/precache-manifest.136f92c3bd5979d5718e7b1017a08752.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "develop3d"});
