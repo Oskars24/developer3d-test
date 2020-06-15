@@ -1,1 +1,0 @@
-# developer3d-test
