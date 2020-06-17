@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Robot.gltf"
   },
   {
-    "revision": "adb68fbdf5f459fd6f56",
-    "url": "/css/app.588cafa5.css"
+    "revision": "40c610f1b0e8340394b3",
+    "url": "/css/app.387e57de.css"
   },
   {
     "revision": "5ee5f102cbcaa2761f320890e0dc5068",
@@ -56,16 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gltf/draco_wasm_wrapper.js"
   },
   {
-    "revision": "0602ad13d44f83e2977a3fc1f257f9db",
+    "revision": "2969802dd6ef7274e028a6b7d19d4a0b",
     "url": "/index.html"
   },
   {
-    "revision": "adb68fbdf5f459fd6f56",
-    "url": "/js/app.13c6e430.js"
+    "revision": "40c610f1b0e8340394b3",
+    "url": "/js/app.586461f6.js"
   },
   {
-    "revision": "11d3ca02e9f8aa06f0fa",
-    "url": "/js/chunk-vendors.368e7232.js"
+    "revision": "2f10f8804896067f5e32",
+    "url": "/js/chunk-vendors.99718904.js"
   },
   {
     "revision": "04ccc3d69d3244f80c9ad9e6d7e44adc",
