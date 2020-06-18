@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developer3d-test/Robot.gltf"
   },
   {
-    "revision": "4906af99912aa2cd346e",
-    "url": "/developer3d-test/css/app.387e57de.css"
+    "revision": "20387c896b59c49c71b4",
+    "url": "/developer3d-test/css/app.0f904d15.css"
   },
   {
     "revision": "5ee5f102cbcaa2761f320890e0dc5068",
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developer3d-test/gltf/draco_wasm_wrapper.js"
   },
   {
-    "revision": "84c1f9fddb23b866ca1fd7967cfddf22",
+    "revision": "3f6bc3a4e4c9f03210cec6f1a7581637",
     "url": "/developer3d-test/index.html"
   },
   {
-    "revision": "4906af99912aa2cd346e",
-    "url": "/developer3d-test/js/app.fb90662f.js"
+    "revision": "20387c896b59c49c71b4",
+    "url": "/developer3d-test/js/app.7acf99e7.js"
   },
   {
     "revision": "2f10f8804896067f5e32",
