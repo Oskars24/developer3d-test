@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "301be6ebbbb96b9e5fc2",
-    "url": "/developer3d-test/css/app.881138a2.css"
+    "revision": "ced7d979014623237440",
+    "url": "/developer3d-test/css/app.ca780898.css"
   },
   {
     "revision": "5ee5f102cbcaa2761f320890e0dc5068",
@@ -52,16 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developer3d-test/gltf/draco_wasm_wrapper.js"
   },
   {
-    "revision": "ad1eedbd6a5888dbc4327991df00dc34",
+    "revision": "d7ac9676cc698ea7f27fa01c2f8aa791",
     "url": "/developer3d-test/index.html"
   },
   {
-    "revision": "301be6ebbbb96b9e5fc2",
-    "url": "/developer3d-test/js/app.ee4e65ad.js"
+    "revision": "ced7d979014623237440",
+    "url": "/developer3d-test/js/app.db611a95.js"
   },
   {
-    "revision": "c116d56d131ecafc5a52",
-    "url": "/developer3d-test/js/chunk-vendors.4befbab5.js"
+    "revision": "624a66af548f9606c886",
+    "url": "/developer3d-test/js/chunk-vendors.a96be9f8.js"
   },
   {
     "revision": "04ccc3d69d3244f80c9ad9e6d7e44adc",
